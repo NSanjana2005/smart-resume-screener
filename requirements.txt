@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+pandas
+streamlit-option-menu
+plotly
+numpy
+openpyxl
